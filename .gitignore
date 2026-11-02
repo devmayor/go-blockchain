@@ -1,0 +1,8 @@
+.idea
+.vscode
+.DS_Store
+.data/
+.cache/
+bin/
+coverage.out
+*.log

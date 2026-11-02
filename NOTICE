@@ -1,0 +1,16 @@
+Go Blockchain Learning Project
+
+This repository is derived from The Blockchain Bar:
+https://github.com/web3coach/the-blockchain-bar
+
+Original project and tutorial by Lukas Lukac / Web3Coach.
+The source snapshot is based on the upstream c12_crypto checkpoint.
+
+The original project states that code outside cmd/ is licensed under the GNU
+Lesser General Public License v3.0 and code inside cmd/ is licensed under the
+GNU General Public License v3.0. Copies of both licenses are included in this
+repository as COPYING.LESSER and COPYING.
+
+Changes in this repository include public-release documentation, safer CLI
+defaults, current Go module metadata, test/CI maintenance, and removal of
+machine-specific deployment instructions.
