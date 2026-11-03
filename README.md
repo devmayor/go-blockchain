@@ -1,6 +1,6 @@
-# Go Blockchain Learning Project
+# Go Blockchain
 
-[![CI](https://github.com/devmayor/go-blockchain-learning/actions/workflows/ci.yml/badge.svg)](https://github.com/devmayor/go-blockchain-learning/actions/workflows/ci.yml)
+[![CI](https://github.com/devmayor/go-blockchain/actions/workflows/ci.yml/badge.svg)](https://github.com/devmayor/go-blockchain/actions/workflows/ci.yml)
 
 An educational blockchain node written in Go while working through Lukas
 Lukac's *Build a Blockchain from Scratch in Go* tutorial. This repository is a
@@ -37,8 +37,8 @@ use test-only accounts.
 ## Run locally
 
 ```bash
-git clone https://github.com/devmayor/go-blockchain-learning.git
-cd go-blockchain-learning
+git clone https://github.com/devmayor/go-blockchain.git
+cd go-blockchain
 go build -o bin/tbb ./cmd/tbb
 
 ./bin/tbb wallet new-account --datadir="$(pwd)/.data"

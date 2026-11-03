@@ -3,7 +3,7 @@ package node
 import (
 	"context"
 	"fmt"
-	"github.com/devmayor/go-blockchain-learning/database"
+	"github.com/devmayor/go-blockchain/database"
 	"net/http"
 	"time"
 )

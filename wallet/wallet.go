@@ -4,7 +4,7 @@ import (
 	"crypto/ecdsa"
 	"crypto/sha256"
 	"fmt"
-	"github.com/devmayor/go-blockchain-learning/database"
+	"github.com/devmayor/go-blockchain/database"
 	"github.com/ethereum/go-ethereum/accounts"
 	"github.com/ethereum/go-ethereum/accounts/keystore"
 	"github.com/ethereum/go-ethereum/common"

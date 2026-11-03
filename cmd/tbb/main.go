@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/devmayor/go-blockchain-learning/fs"
+	"github.com/devmayor/go-blockchain/fs"
 	"github.com/spf13/cobra"
 	"os"
 )

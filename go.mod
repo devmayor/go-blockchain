@@ -1,4 +1,4 @@
-module github.com/devmayor/go-blockchain-learning
+module github.com/devmayor/go-blockchain
 
 go 1.13
 

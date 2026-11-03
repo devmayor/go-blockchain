@@ -2,8 +2,8 @@ package node
 
 import (
 	"fmt"
-	"github.com/devmayor/go-blockchain-learning/database"
-	"github.com/devmayor/go-blockchain-learning/wallet"
+	"github.com/devmayor/go-blockchain/database"
+	"github.com/devmayor/go-blockchain/wallet"
 	"github.com/ethereum/go-ethereum/common"
 	"net/http"
 	"strconv"

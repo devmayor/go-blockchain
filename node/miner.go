@@ -3,8 +3,8 @@ package node
 import (
 	"context"
 	"fmt"
-	"github.com/devmayor/go-blockchain-learning/database"
-	"github.com/devmayor/go-blockchain-learning/fs"
+	"github.com/devmayor/go-blockchain/database"
+	"github.com/devmayor/go-blockchain/fs"
 	"github.com/ethereum/go-ethereum/common"
 	"math/rand"
 	"time"

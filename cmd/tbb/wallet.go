@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/devmayor/go-blockchain-learning/wallet"
+	"github.com/devmayor/go-blockchain/wallet"
 	"github.com/spf13/cobra"
 	"golang.org/x/crypto/ssh/terminal"
 	"os"

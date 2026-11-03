@@ -6,9 +6,9 @@ package node
 import (
 	"context"
 	"encoding/json"
-	"github.com/devmayor/go-blockchain-learning/database"
-	"github.com/devmayor/go-blockchain-learning/fs"
-	"github.com/devmayor/go-blockchain-learning/wallet"
+	"github.com/devmayor/go-blockchain/database"
+	"github.com/devmayor/go-blockchain/fs"
+	"github.com/devmayor/go-blockchain/wallet"
 	"github.com/ethereum/go-ethereum/common"
 	"io"
 	"io/ioutil"
